@@ -7,15 +7,15 @@ int main()
 	{
         cout << "Hello Waifu!\n";
         int age;
-        cout << "Hvor gammel er fuck ottis gay shit din?: ";
+        cout << "How old is your waifu?: ";
         cin >> age;
         if (age < 18)
         {
-            cout << "Waifuen din er ikke gammel nok.\n";
+            cout << "Go to jail.\n";
         }
         else
         {
-            cout << "Waifuen din er gammel nok.\n";
+            cout << "You're good.\n";
         }
         cout << "\n";
 	}
